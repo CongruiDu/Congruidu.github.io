@@ -14,7 +14,7 @@ I am an incoming Ph.D. student in Computer Science at the University of Californ
 ## News
 
 - **June 2024:** Completed my undergraduate studies at UCSB and began my Ph.D. program in Computer Science at UCSB.  
-- **April 2024:** Joined the UCSB NLP Group as an undergraduate research assistant under the guidance of [Prof. Shiyu Chang](https://code-terminator.github.io/).
+- **April 2024:** Joined the UCSB NLP Group as an undergraduate research assistant, advised by [Prof. Shiyu Chang](https://code-terminator.github.io/).
 
 ## Honors & Awards
 
