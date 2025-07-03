@@ -4,17 +4,14 @@ layout: homepage
 
 ## About Me
 
-I am a incoming Ph.D. student in computer science at the University of California, Santa Barabara, advised by Prof. Shiyu Chang. Recently, I received my Bechelor of Science degree in computer science from UCSB.
+I am an incoming Ph.D. student in Computer Science at the University of California, Santa Barbara, advised by Prof. Shiyu Chang. I recently earned my Bachelor of Science in Computer Science from UCSB.
 
 ## Research Interests
 
-- **Natrual Language Processing** 
-- **Machine Learning** 
+- **Natural Language Processing**  
+- **Machine Learning**
 
 ## News
 
-- **[Jun. 2024]** I finished my undergrad study at UCSB and will continue my graduate study as a Ph.D student at UCSB
-- **[Apr. 2024]** I joined UCSB NLP Group as an undergrad research assistant, advised by Prof. Shiyu Chang.
-
-
-
+- **June 2024:** Completed my undergraduate studies at UCSB and began my Ph.D. program in Computer Science at UCSB.  
+- **April 2024:** Joined the UCSB NLP Group as an undergraduate research assistant under the guidance of Prof. Shiyu Chang.
