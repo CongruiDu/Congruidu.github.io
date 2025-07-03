@@ -4,20 +4,17 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a incoming Ph.D. student in computer science at the University of California, Santa Barabara, advised by Prof. Shiyu Chang. Recently, I received my Bechelor of Science degree in computer science from UCSB.
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Natrual Language Processing** 
+- **Machine Learning** 
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Jun. 2024]** I finished my undergrad study at UCSB and will continue my graduate study as a Ph.D student at UCSB
+- **[Apr. 2024]** I joined UCSB NLP Group as an undergrad research assistant, advised by Prof. Shiyu Chang.
 
-{% include_relative _includes/publications.md %}
 
-{% include_relative _includes/services.md %}
+
