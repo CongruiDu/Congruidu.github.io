@@ -18,4 +18,4 @@ I am an incoming Ph.D. student in Computer Science at the University of Californ
 
 ## Honors & Awards
 
-- **2025–Present:** Chancellor’s Fellowship, UC Santa Barbara
+- **2025:** Chancellor’s Fellowship, UCSB
