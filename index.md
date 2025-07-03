@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am an incoming Ph.D. student in Computer Science at the University of California, Santa Barbara, advised by [Prof. Shiyu Chang](https://code-terminator.github.io/). I recently earned my Bachelor of Science in Computer Science from UCSB.
+I am an incoming Ph.D. student in Computer Science at the University of California, Santa Barbara, advised by [Prof. Shiyu Chang](https://code-terminator.github.io/). I recently earned my Bachelor of Science degree in Computer Science from UCSB.
 
 ## Research Interests
 
